@@ -1,4 +1,4 @@
-package com.testing.pageObjectModel;
+package com.testing.pages.pageObjectModel;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

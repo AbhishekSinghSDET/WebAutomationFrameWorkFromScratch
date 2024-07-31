@@ -1,6 +1,6 @@
 package com.testing.tests;
 
-import com.testing.pageObjectModel.LoginPage_POM;
+import com.testing.pages.pageObjectModel.LoginPage_POM;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
