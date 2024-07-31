@@ -1,5 +1,6 @@
 package com.testing.driver;
 
+import com.testing.utils.PropertyReader;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
